@@ -46,8 +46,8 @@ The following steps were performed in the project:
 - [Matplotlib](https://matplotlib.org/): Visualization library used to plot class distribution and training curves.
 - [Seaborn](https://seaborn.pydata.org/): Used for enhanced data visualizations.
 - [OpenCV](https://opencv.org/): For image reading and processing.
-- [EfficientNet](https://github.com/qubvel/efficientnet): Deep learning architecture used for image classification.
-- [BiTemperedLogisticLoss](https://github.com/google/bi-tempered-loss): Used to improve robustness against noisy labels.
+- EfficientNet B0-B7: Deep learning architecture used for image classification.
+- BiTemperedLogisticLoss: Used to improve robustness against noisy labels.
 
 ## Results
 
